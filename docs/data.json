@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-05-07T19:02:29.351225+09:00",
+  "generated_at": "2026-05-08T07:09:02.753655+09:00",
   "sources": [
     {
       "source_key": "g2b",
-      "last_24h_count": 5042,
-      "pending_count": 15748,
-      "processed_count": 11206,
+      "last_24h_count": 4686,
+      "pending_count": 17855,
+      "processed_count": 11415,
       "error_count": 0,
-      "last_scrap_at": "2026-05-07T09:12:41.5163+00:00",
-      "last_collect_at": "2026-05-06T21:38:09.109747+00:00",
-      "total_count": 26954
+      "last_scrap_at": "2026-05-07T21:02:38.276382+00:00",
+      "last_collect_at": "2026-05-07T21:29:50.256839+00:00",
+      "total_count": 29270
     },
     {
       "source_key": "bizinfo",
-      "last_24h_count": 2676,
-      "pending_count": 18838,
-      "processed_count": 11078,
+      "last_24h_count": 2704,
+      "pending_count": 19384,
+      "processed_count": 11869,
       "error_count": 0,
-      "last_scrap_at": "2026-05-07T09:11:58.710847+00:00",
-      "last_collect_at": "2026-05-06T21:38:15.109982+00:00",
-      "total_count": 29916
+      "last_scrap_at": "2026-05-07T21:00:54.02334+00:00",
+      "last_collect_at": "2026-05-07T21:29:46.693317+00:00",
+      "total_count": 31253
     }
   ],
   "recent_errors": [],
